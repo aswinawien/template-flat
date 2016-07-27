@@ -1,0 +1,99 @@
+*{
+font-family: 'Montserrat', sans-serif;
+line-height: 10px;
+}
+ .bgimg1 {
+    opacity: 0.7;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bgimg1 {
+    background-image: url(http://img07.deviantart.net/cb14/i/2008/187/1/0/thousand_sunny___n_the_verano_by_byeneida.jpg);
+    height: 1000px;
+    width: 100%;
+  }
+.logo a{
+	font-family: 'Montserrat', sans-serif;
+	text-decoration-line: none;
+}
+
+.navi{
+	background-color: #2c3e50;
+	height: 800px;
+	color: #F22613;
+	font-family: 'Montserrat', sans-serif;
+
+}
+.nav{
+	margin-top:250px;
+}
+.nav .home :hover{
+	background-color: #81CFE0;
+}
+.nav .skills :hover{
+	background-color: #87D37C;
+}
+.nav .porto :hover{
+	background-color:#FDE3A7; 
+}
+.nav .contact:hover{
+	background-color: #E74C3C;
+}
+.picture{
+	height: 10cm;
+	max-width: 10cm;
+}
+#home{
+	color: #ecf0f1;
+	background-color:#2ecc71;
+	height: 800px;
+}
+#skills{
+  	background-color: #95a5a6;
+  	height:600px;
+  }
+#portofolio{
+	background-color: white;
+}
+#contact{
+	background-color: #7f8c8d;
+}
+.form-group{
+	width: 75%;
+	margin-left: 50px;
+}
+.col-xs-12{
+height: 540px;
+}
+.image {
+height: 500px;
+text-align: center;
+}
+.photo{
+	border-radius: 50%;
+}
+.noob{
+	color:#c0392b;
+}
+.webdesign{
+	color:#2980b9;
+}
+.separator{
+height: 3px;
+width: 60px;
+margin: 60px auto;
+background: white none repeat scroll 0% 0%;
+}
+.btn-flat{
+	background-color: #34495e;
+
+}
+.btn-flat:hover{
+	background-color: white;
+	color: red;
+	font-size: 25px;
+	font-weight: bold;
+
+}
